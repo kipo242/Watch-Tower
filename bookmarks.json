@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Streaming",
+      "icon": "🎬",
+      "bookmarks": [
+        { "title": "Video Piracy Guide", "url": "https://fmhy.pages.dev/videopiracy", "desc": "Complete guide to free video streaming" },
+        { "title": "Anime", "url": "https://fmhy.pages.dev/anime", "desc": "Free anime streaming sites" },
+        { "title": "Movies", "url": "https://fmhy.pages.dev/movies", "desc": "Free movie streaming" },
+        { "title": "TV Shows", "url": "https://fmhy.pages.dev/tv", "desc": "Free TV show streaming" },
+        { "title": "Music", "url": "https://fmhy.pages.dev/music", "desc": "Free music streaming & downloads" },
+        { "title": "Sports", "url": "https://fmhy.pages.dev/sports", "desc": "Free sports streaming" },
+        { "title": "Podcasts", "url": "https://fmhy.pages.dev/podcasts", "desc": "Free podcast platforms" },
+        { "title": "Documentaries", "url": "https://fmhy.pages.dev/documentaries", "desc": "Free documentary streaming" }
+      ]
+    },
+    {
+      "name": "Downloading",
+      "icon": "⬇️",
+      "bookmarks": [
+        { "title": "Download Guide", "url": "https://fmhy.pages.dev/download", "desc": "General downloading guide" },
+        { "title": "Torrent", "url": "https://fmhy.pages.dev/torrent", "desc": "Torrent sites & clients" },
+        { "title": "eBooks", "url": "https://fmhy.pages.dev/ebooks", "desc": "Free ebook libraries" },
+        { "title": "Audiobooks", "url": "https://fmhy.pages.dev/audiobooks", "desc": "Free audiobook sources" },
+        { "title": "Manga", "url": "https://fmhy.pages.dev/manga", "desc": "Free manga reading" },
+        { "title": "Games", "url": "https://fmhy.pages.dev/games", "desc": "Free game downloads" },
+        { "title": "Software", "url": "https://fmhy.pages.dev/software", "desc": "Free software & apps" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "icon": "🛠️",
+      "bookmarks": [
+        { "title": "Adblock", "url": "https://fmhy.pages.dev/adblock", "desc": "Ad blocking tools & filters" },
+        { "title": "VPN", "url": "https://fmhy.pages.dev/vpn", "desc": "Free & paid VPN recommendations" },
+        { "title": "Privacy", "url": "https://fmhy.pages.dev/privacy", "desc": "Privacy tools & guides" },
+        { "title": "AI Tools", "url": "https://fmhy.pages.dev/ai", "desc": "Free AI tools & resources" },
+        { "title": "Browser Extensions", "url": "https://fmhy.pages.dev/extension", "desc": "Useful browser extensions" },
+        { "title": "Userscripts", "url": "https://fmhy.pages.dev/userscript", "desc": "Tampermonkey & Greasemonkey scripts" }
+      ]
+    },
+    {
+      "name": "Education",
+      "icon": "🎓",
+      "bookmarks": [
+        { "title": "Educational Guide", "url": "https://fmhy.pages.dev/edu", "desc": "Free educational resources" },
+        { "title": "Courses", "url": "https://fmhy.pages.dev/courses", "desc": "Free online courses" },
+        { "title": "Tutorials", "url": "https://fmhy.pages.dev/tutorials", "desc": "Free tutorials & guides" },
+        { "title": "Coding", "url": "https://fmhy.pages.dev/coding", "desc": "Learn to code for free" },
+        { "title": "Languages", "url": "https://fmhy.pages.dev/language", "desc": "Free language learning" }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "icon": "🎮",
+      "bookmarks": [
+        { "title": "ROMs", "url": "https://fmhy.pages.dev/roms", "desc": "Game ROM downloads" },
+        { "title": "Emulation", "url": "https://fmhy.pages.dev/emulation", "desc": "Emulators & setup guides" },
+        { "title": "Mods", "url": "https://fmhy.pages.dev/mods", "desc": "Game mods & modding" },
+        { "title": "Cheats", "url": "https://fmhy.pages.dev/cheats", "desc": "Game cheats & trainers" }
+      ]
+    }
+  ]
+}
